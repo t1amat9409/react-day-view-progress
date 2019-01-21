@@ -1,0 +1,40 @@
+{
+  "name": "react-day-view-progress",
+  "version": "1.0.14",
+  "description": "A today view progress component.",
+  "main": "index.js",
+  "keywords": [
+    "day-view",
+    "calander",
+    "react",
+    "react-native",
+    "npm",
+    "package",
+    "itxbornfire",
+    "react-day-view-progress"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t1amat9409/react-day-view-progress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/t1amat9409/react-day-view-progress/issues"
+  },
+  "homepage": "https://github.com/t1amat9409/react-day-view-progress#readme",
+  "peerDependencies": {
+    "react": "^16.7.0",
+    "react-art": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-native": "^0.57.8",
+    "react-native-web": "^0.10.0-alpha.2"
+  },
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-art": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-native": "^0.57.8",
+    "react-native-web": "^0.10.0-alpha.2"
+  },
+  "author": "Aliziwe Mahono",
+  "license": "ISC"
+}
