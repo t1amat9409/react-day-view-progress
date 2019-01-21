@@ -1,8 +1,5 @@
 # react-day-view-progress
 A today view progress component.
-
-# react-day-view-progress
-
 Example https://codesandbox.io/s/moqk0mqj1x .
 
 ```JavaScript
