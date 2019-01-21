@@ -2,10 +2,12 @@
 A today view progress component.
 Example https://codesandbox.io/s/moqk0mqj1x .
 
+Inside your app :
+
 ```JavaScript
   import React from "react";
   import ReactDOM from "react-dom";
-  import DayViewProgress from "./DayViewProgress";
+  import DayViewProgress from "react-day-view-progress";
   import "./styles.css";
 
   function App() {
