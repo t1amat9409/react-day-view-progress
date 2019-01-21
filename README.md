@@ -2,6 +2,18 @@
 A today view progress component.
 Example https://codesandbox.io/s/moqk0mqj1x .
 
+npm install 
+
+```
+ npm install react-day-view-progress
+```
+
+or yarn 
+
+```
+ yarn add react-day-view-progress
+```
+
 Inside your app :
 
 ```JavaScript
